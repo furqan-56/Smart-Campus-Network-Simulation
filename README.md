@@ -90,6 +90,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-**Author:** [Furqan Rasheed]  
-**Email:** [furqanrasheedahmed11@gmail.com]  
+**Author:** Furqan Rasheed  
+**Email:** furqanrasheedahmed11@gmail.com
 
